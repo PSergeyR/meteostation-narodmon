@@ -1,0 +1,18 @@
+sda d2
+scl d1
+
+
+планка:
+gnd
+sda
+scl
+vcc
+
+
+https://espsmart.ru/blog/19-podkljuchenie-datchika-temperatury-ds18b20-k-esp8266.html#sel=22:110,22:110
+
+
+планка 2 (где белая точка там gnd)
+gnd 
+d3
+5v
